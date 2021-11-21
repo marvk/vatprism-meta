@@ -16,19 +16,19 @@ The main VATprism repository. All frontend code as well as the website code live
 
 Code pertaining to connecting to official VATSIM endpoints.
 
-## [marvk/vatprism-api](https://github.com/marvk/marvk/vatprism-api) ![](https://shields.io/badge/-private-6e5494?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAAmJLR0QA/4ePzL8AAAC4SURBVBgZncExSoIBAAbQT6JFaW8TUtPdxgIhqU0aoz3ccu4Azq1dwL2pyUC9g6AY/w3CMWh5/aB4AN/L8XQNVRLPFgqFuZFqdpyZ+HTuQSslLWMrN9lx59vGIAc6lnpJXNq4UDf3rpY9DWvt+HKbklO/Vq6yp28aU/2UVGzx59VJSu5No22lkZJHWz8+zNUTM80kepY6OTCw8aSSHddWxtopaXqzNjVxlh1VL2YKhYWRmoqhbo72D1GwiOA4B7qJAAAAAElFTkSuQmCC)
+## [marvk/vatprism-api](https://github.com/marvk/vatprism-api) ![](https://shields.io/badge/-private-6e5494?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAAmJLR0QA/4ePzL8AAAC4SURBVBgZncExSoIBAAbQT6JFaW8TUtPdxgIhqU0aoz3ccu4Azq1dwL2pyUC9g6AY/w3CMWh5/aB4AN/L8XQNVRLPFgqFuZFqdpyZ+HTuQSslLWMrN9lx59vGIAc6lnpJXNq4UDf3rpY9DWvt+HKbklO/Vq6yp28aU/2UVGzx59VJSu5No22lkZJHWz8+zNUTM80kepY6OTCw8aSSHddWxtopaXqzNjVxlh1VL2YKhYWRmoqhbo72D1GwiOA4B7qJAAAAAElFTkSuQmCC)
 
 Code serving VATprism API endpoints.
 
-## [marvk/vatprism-commons](https://github.com/marvk/marvk/vatprism-commons)
+## [marvk/vatprism-commons](https://github.com/marvk/vatprism-commons)
 
-Code shared between [marvk/vatprism](https://github.com/marvk/marvk/vatprism-api) and [marvk/vatprism-api](https://github.com/marvk/marvk/vatprism-api).
+Code shared between [marvk/vatprism](https://github.com/marvk/vatprism-api) and [marvk/vatprism-api](https://github.com/marvk/vatprism-api).
 
-## [marvk/vatprism-motd](https://github.com/marvk/marvk/vatprism-motd) ![](https://shields.io/badge/-private-6e5494?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAAmJLR0QA/4ePzL8AAAC4SURBVBgZncExSoIBAAbQT6JFaW8TUtPdxgIhqU0aoz3ccu4Azq1dwL2pyUC9g6AY/w3CMWh5/aB4AN/L8XQNVRLPFgqFuZFqdpyZ+HTuQSslLWMrN9lx59vGIAc6lnpJXNq4UDf3rpY9DWvt+HKbklO/Vq6yp28aU/2UVGzx59VJSu5No22lkZJHWz8+zNUTM80kepY6OTCw8aSSHddWxtopaXqzNjVxlh1VL2YKhYWRmoqhbo72D1GwiOA4B7qJAAAAAElFTkSuQmCC)
+## [marvk/vatprism-motd](https://github.com/marvk/vatprism-motd) ![](https://shields.io/badge/-private-6e5494?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAAmJLR0QA/4ePzL8AAAC4SURBVBgZncExSoIBAAbQT6JFaW8TUtPdxgIhqU0aoz3ccu4Azq1dwL2pyUC9g6AY/w3CMWh5/aB4AN/L8XQNVRLPFgqFuZFqdpyZ+HTuQSslLWMrN9lx59vGIAc6lnpJXNq4UDf3rpY9DWvt+HKbklO/Vq6yp28aU/2UVGzx59VJSu5No22lkZJHWz8+zNUTM80kepY6OTCw8aSSHddWxtopaXqzNjVxlh1VL2YKhYWRmoqhbo72D1GwiOA4B7qJAAAAAElFTkSuQmCC)
 
 Staging area for VATprism Messages Of The Day
 
-## [marvk/vatprism-meta](https://github.com/marvk/marvk/vatprism-motd) 
+## [marvk/vatprism-meta](https://github.com/marvk/vatprism-motd) 
 
 This very repository providing you an overview over all VATprism repositories.
 
