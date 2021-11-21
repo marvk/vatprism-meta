@@ -28,7 +28,7 @@ Code shared between [marvk/vatprism](https://github.com/marvk/vatprism-api) and 
 
 Staging area for VATprism Messages Of The Day
 
-## [marvk/vatprism-meta](https://github.com/marvk/vatprism-motd) 
+## [marvk/vatprism-meta](https://github.com/marvk/vatprism-meta) 
 
 This very repository providing you an overview over all VATprism repositories.
 
