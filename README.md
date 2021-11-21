@@ -40,6 +40,6 @@ The official VATprism website, serving download links, FAQ, a Usage Guide and mo
 
 # Discord
 
-## [![Discord](https://img.shields.io/discord/801211199592857672.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/XPpFHhT8sk)
+## [Discord Server](https://discord.gg/XPpFHhT8sk) [![Discord](https://img.shields.io/discord/801211199592857672.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/XPpFHhT8sk)
 
 The official VATprism Discord server, allowing users to discuss issues, ideas, questions, feedback and other topics. 
