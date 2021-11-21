@@ -38,3 +38,8 @@ This very repository providing you an overview over all VATprism repositories.
 
 The official VATprism website, serving download links, FAQ, a Usage Guide and more.
 
+# Discord
+
+## [![Discord](https://img.shields.io/discord/801211199592857672.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/XPpFHhT8sk)
+
+The official VATprism Discord server, allowing users to discuss issues, ideas, questions, feedback and other topics. 
