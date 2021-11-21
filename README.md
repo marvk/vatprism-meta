@@ -2,7 +2,7 @@
 
 # VATprism Meta
 
-A high level overview of all things VATprism
+A high level overview of all things VATprism.
 
 ### NOTICE: If you aren't interested in technical details, feel free to proceed to the [main VATprim repository](https://github.com/marvk/vatprism/) or to the [VATprism website.](https://vatprism.org/) to find out more about VATprism!
 
