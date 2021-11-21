@@ -4,7 +4,7 @@
 
 A high level overview of all things VATprism.
 
-### NOTICE: If you aren't interested in technical details, feel free to proceed to the [main VATprim repository](https://github.com/marvk/vatprism/) or to the [VATprism website.](https://vatprism.org/) to find out more about VATprism!
+### NOTICE: If you aren't interested in technical details and want to learn more about VATprism, feel free to proceed to the main [VATprim repository](https://github.com/marvk/vatprism/), the [VATprism website](https://vatprism.org/) or the [VATprism discord](https://discord.gg/XPpFHhT8sk).
 
 # Repositories
 
